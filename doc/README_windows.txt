@@ -1,4 +1,4 @@
-Digital Gold Coin Core 0.14.6
+Digital Gold Coin Core 0.14.7
 =====================
 
 Intro

@@ -1,4 +1,4 @@
-Digital Gold Coin Core version 0.14.6 is now available from:
+Digital Gold Coin Core version 0.14.7 is now available from:
 
   <https://digitalgoldcoin.org/downloads/>
 
